@@ -1,4 +1,3 @@
 # Online-Review-Analysis
-Data and code for "Online Review-driven Customer Segmentation and Need Analysis: A Framework Based on Network Construction and Embedding"
 
-We only show 100 online reviews here 
+Data and code for our paper submitted to Journal of Mechnical Design entitled "Customer Segmentation and Need Analysis Based on Sentiment Network of Online Reviewers and Graph Embedding". At this stage, we uploaded the first 100 online reivews. Once the paper is accepted, all data will be relesed and the public can access it freely for research purposes.
